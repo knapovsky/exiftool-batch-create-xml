@@ -1,0 +1,176 @@
+?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about='../Pictures/2022-12-14 _-_8591.jpg'
+  xmlns:et='http://ns.exiftool.org/1.0/' et:toolkit='Image::ExifTool 12.50'
+  xmlns:ExifTool='http://ns.exiftool.org/ExifTool/1.0/'
+  xmlns:System='http://ns.exiftool.org/File/System/1.0/'
+  xmlns:File='http://ns.exiftool.org/File/1.0/'
+  xmlns:IFD0='http://ns.exiftool.org/EXIF/IFD0/1.0/'
+  xmlns:ExifIFD='http://ns.exiftool.org/EXIF/ExifIFD/1.0/'
+  xmlns:Apple='http://ns.exiftool.org/MakerNotes/Apple/1.0/'
+  xmlns:GPS='http://ns.exiftool.org/EXIF/GPS/1.0/'
+  xmlns:IFD1='http://ns.exiftool.org/EXIF/IFD1/1.0/'
+  xmlns:XMP-x='http://ns.exiftool.org/XMP/XMP-x/1.0/'
+  xmlns:XMP-xmp='http://ns.exiftool.org/XMP/XMP-xmp/1.0/'
+  xmlns:XMP-photoshop='http://ns.exiftool.org/XMP/XMP-photoshop/1.0/'
+  xmlns:XMP-mwg-rs='http://ns.exiftool.org/XMP/XMP-mwg-rs/1.0/'
+  xmlns:ICC-header='http://ns.exiftool.org/ICC_Profile/ICC-header/1.0/'
+  xmlns:ICC_Profile='http://ns.exiftool.org/ICC_Profile/ICC_Profile/1.0/'
+  xmlns:Composite='http://ns.exiftool.org/Composite/1.0/'>
+ <ExifTool:ExifToolVersion>12.50</ExifTool:ExifToolVersion>
+ <System:FileName>2022-12-14 _-_8591.jpg</System:FileName>
+ <System:Directory>../Pictures</System:Directory>
+ <System:FileSize>2.3 MB</System:FileSize>
+ <System:FileModifyDate>2022:12:14 09:09:37+08:00</System:FileModifyDate>
+ <System:FileAccessDate>2022:12:17 19:29:42+08:00</System:FileAccessDate>
+ <System:FileInodeChangeDate>2022:12:17 22:15:47+08:00</System:FileInodeChangeDate>
+ <System:FilePermissions>-rw-r--r--</System:FilePermissions>
+ <File:FileType>JPEG</File:FileType>
+ <File:FileTypeExtension>jpg</File:FileTypeExtension>
+ <File:MIMEType>image/jpeg</File:MIMEType>
+ <File:ExifByteOrder>Big-endian (Motorola, MM)</File:ExifByteOrder>
+ <File:ImageWidth>4032</File:ImageWidth>
+ <File:ImageHeight>3024</File:ImageHeight>
+ <File:EncodingProcess>Baseline DCT, Huffman coding</File:EncodingProcess>
+ <File:BitsPerSample>8</File:BitsPerSample>
+ <File:ColorComponents>3</File:ColorComponents>
+ <File:YCbCrSubSampling>YCbCr4:2:0 (2 2)</File:YCbCrSubSampling>
+ <IFD0:Make>Apple</IFD0:Make>
+ <IFD0:Model>iPhone XS</IFD0:Model>
+ <IFD0:Orientation>Rotate 90 CW</IFD0:Orientation>
+ <IFD0:XResolution>72</IFD0:XResolution>
+ <IFD0:YResolution>72</IFD0:YResolution>
+ <IFD0:ResolutionUnit>inches</IFD0:ResolutionUnit>
+ <IFD0:Software>16.1.2</IFD0:Software>
+ <IFD0:ModifyDate>2022:12:14 09:09:37</IFD0:ModifyDate>
+ <IFD0:HostComputer>iPhone XS</IFD0:HostComputer>
+ <IFD0:YCbCrPositioning>Centered</IFD0:YCbCrPositioning>
+ <ExifIFD:ExposureTime>1/60</ExifIFD:ExposureTime>
+ <ExifIFD:FNumber>1.8</ExifIFD:FNumber>
+ <ExifIFD:ExposureProgram>Program AE</ExifIFD:ExposureProgram>
+ <ExifIFD:ISO>400</ExifIFD:ISO>
+ <ExifIFD:ExifVersion>0232</ExifIFD:ExifVersion>
+ <ExifIFD:DateTimeOriginal>2022:12:14 09:09:37</ExifIFD:DateTimeOriginal>
+ <ExifIFD:CreateDate>2022:12:14 09:09:37</ExifIFD:CreateDate>
+ <ExifIFD:OffsetTime>+08:00</ExifIFD:OffsetTime>
+ <ExifIFD:OffsetTimeOriginal>+08:00</ExifIFD:OffsetTimeOriginal>
+ <ExifIFD:OffsetTimeDigitized>+08:00</ExifIFD:OffsetTimeDigitized>
+ <ExifIFD:ComponentsConfiguration>Y, Cb, Cr, -</ExifIFD:ComponentsConfiguration>
+ <ExifIFD:ShutterSpeedValue>1/60</ExifIFD:ShutterSpeedValue>
+ <ExifIFD:ApertureValue>1.8</ExifIFD:ApertureValue>
+ <ExifIFD:BrightnessValue>1.36387446</ExifIFD:BrightnessValue>
+ <ExifIFD:ExposureCompensation>0</ExifIFD:ExposureCompensation>
+ <ExifIFD:MeteringMode>Multi-segment</ExifIFD:MeteringMode>
+ <ExifIFD:Flash>Off, Did not fire</ExifIFD:Flash>
+ <ExifIFD:FocalLength>4.2 mm</ExifIFD:FocalLength>
+ <ExifIFD:SubjectArea>1390 1573 346 345</ExifIFD:SubjectArea>
+ <ExifIFD:SubSecTimeOriginal>894</ExifIFD:SubSecTimeOriginal>
+ <ExifIFD:SubSecTimeDigitized>894</ExifIFD:SubSecTimeDigitized>
+ <ExifIFD:FlashpixVersion>0100</ExifIFD:FlashpixVersion>
+ <ExifIFD:ColorSpace>Uncalibrated</ExifIFD:ColorSpace>
+ <ExifIFD:ExifImageWidth>4032</ExifIFD:ExifImageWidth>
+ <ExifIFD:ExifImageHeight>3024</ExifIFD:ExifImageHeight>
+ <ExifIFD:SensingMethod>One-chip color area</ExifIFD:SensingMethod>
+ <ExifIFD:SceneType>Directly photographed</ExifIFD:SceneType>
+ <ExifIFD:ExposureMode>Auto</ExifIFD:ExposureMode>
+ <ExifIFD:WhiteBalance>Auto</ExifIFD:WhiteBalance>
+ <ExifIFD:FocalLengthIn35mmFormat>26 mm</ExifIFD:FocalLengthIn35mmFormat>
+ <ExifIFD:SceneCaptureType>Standard</ExifIFD:SceneCaptureType>
+ <ExifIFD:LensInfo>4.25-6mm f/1.8-2.4</ExifIFD:LensInfo>
+ <ExifIFD:LensMake>Apple</ExifIFD:LensMake>
+ <ExifIFD:LensModel>iPhone XS back dual camera 4.25mm f/1.8</ExifIFD:LensModel>
+ <ExifIFD:CompositeImage>General Composite Image</ExifIFD:CompositeImage>
+ <Apple:RunTimeFlags>Valid</Apple:RunTimeFlags>
+ <Apple:RunTimeValue>22966253952125</Apple:RunTimeValue>
+ <Apple:RunTimeScale>1000000000</Apple:RunTimeScale>
+ <Apple:RunTimeEpoch>0</Apple:RunTimeEpoch>
+ <Apple:AccelerationVector>-0.004262241069 -1.000204801 -0.1183416472</Apple:AccelerationVector>
+ <Apple:FocusDistanceRange>0.45 - 2.27 m</Apple:FocusDistanceRange>
+ <Apple:LivePhotoVideoIndex>13639680</Apple:LivePhotoVideoIndex>
+ <GPS:GPSLatitudeRef>South</GPS:GPSLatitudeRef>
+ <GPS:GPSLatitude>32 deg 5&#39; 41.48&quot;</GPS:GPSLatitude>
+ <GPS:GPSLongitudeRef>East</GPS:GPSLongitudeRef>
+ <GPS:GPSLongitude>115 deg 46&#39; 56.95&quot;</GPS:GPSLongitude>
+ <GPS:GPSAltitudeRef>Above Sea Level</GPS:GPSAltitudeRef>
+ <GPS:GPSAltitude>24.56687353 m</GPS:GPSAltitude>
+ <GPS:GPSSpeedRef>km/h</GPS:GPSSpeedRef>
+ <GPS:GPSSpeed>0</GPS:GPSSpeed>
+ <GPS:GPSImgDirectionRef>True North</GPS:GPSImgDirectionRef>
+ <GPS:GPSImgDirection>108.3467406</GPS:GPSImgDirection>
+ <GPS:GPSDestBearingRef>True North</GPS:GPSDestBearingRef>
+ <GPS:GPSDestBearing>108.3467406</GPS:GPSDestBearing>
+ <GPS:GPSDateStamp>2022:12:14</GPS:GPSDateStamp>
+ <GPS:GPSHPositioningError>35 m</GPS:GPSHPositioningError>
+ <IFD1:Compression>JPEG (old-style)</IFD1:Compression>
+ <IFD1:XResolution>72</IFD1:XResolution>
+ <IFD1:YResolution>72</IFD1:YResolution>
+ <IFD1:ResolutionUnit>inches</IFD1:ResolutionUnit>
+ <IFD1:ThumbnailOffset>2438</IFD1:ThumbnailOffset>
+ <IFD1:ThumbnailLength>8512</IFD1:ThumbnailLength>
+ <IFD1:ThumbnailImage>(Binary data 8512 bytes, use -b option to extract)</IFD1:ThumbnailImage>
+ <XMP-x:XMPToolkit>XMP Core 6.0.0</XMP-x:XMPToolkit>
+ <XMP-xmp:CreateDate>2022:12:14 09:09:37</XMP-xmp:CreateDate>
+ <XMP-xmp:CreatorTool>16.1.2</XMP-xmp:CreatorTool>
+ <XMP-xmp:ModifyDate>2022:12:14 09:09:37</XMP-xmp:ModifyDate>
+ <XMP-photoshop:DateCreated>2022:12:14 09:09:37</XMP-photoshop:DateCreated>
+ <XMP-mwg-rs:RegionAreaY>0.52200000000000002</XMP-mwg-rs:RegionAreaY>
+ <XMP-mwg-rs:RegionAreaW>0.088000000000000023</XMP-mwg-rs:RegionAreaW>
+ <XMP-mwg-rs:RegionAreaX>0.34599999999999997</XMP-mwg-rs:RegionAreaX>
+ <XMP-mwg-rs:RegionAreaH>0.11733333333333329</XMP-mwg-rs:RegionAreaH>
+ <XMP-mwg-rs:RegionAreaUnit>normalized</XMP-mwg-rs:RegionAreaUnit>
+ <XMP-mwg-rs:RegionType>Face</XMP-mwg-rs:RegionType>
+ <XMP-mwg-rs:RegionExtensionsAngleInfoYaw>0</XMP-mwg-rs:RegionExtensionsAngleInfoYaw>
+ <XMP-mwg-rs:RegionExtensionsAngleInfoRoll>270</XMP-mwg-rs:RegionExtensionsAngleInfoRoll>
+ <XMP-mwg-rs:RegionExtensionsConfidenceLevel>933</XMP-mwg-rs:RegionExtensionsConfidenceLevel>
+ <XMP-mwg-rs:RegionExtensionsFaceID>1</XMP-mwg-rs:RegionExtensionsFaceID>
+ <XMP-mwg-rs:RegionAppliedToDimensionsH>3024</XMP-mwg-rs:RegionAppliedToDimensionsH>
+ <XMP-mwg-rs:RegionAppliedToDimensionsW>4032</XMP-mwg-rs:RegionAppliedToDimensionsW>
+ <XMP-mwg-rs:RegionAppliedToDimensionsUnit>pixel</XMP-mwg-rs:RegionAppliedToDimensionsUnit>
+ <ICC-header:ProfileCMMType>Apple Computer Inc.</ICC-header:ProfileCMMType>
+ <ICC-header:ProfileVersion>4.0.0</ICC-header:ProfileVersion>
+ <ICC-header:ProfileClass>Display Device Profile</ICC-header:ProfileClass>
+ <ICC-header:ColorSpaceData>RGB </ICC-header:ColorSpaceData>
+ <ICC-header:ProfileConnectionSpace>XYZ </ICC-header:ProfileConnectionSpace>
+ <ICC-header:ProfileDateTime>2022:01:01 00:00:00</ICC-header:ProfileDateTime>
+ <ICC-header:ProfileFileSignature>acsp</ICC-header:ProfileFileSignature>
+ <ICC-header:PrimaryPlatform>Apple Computer Inc.</ICC-header:PrimaryPlatform>
+ <ICC-header:CMMFlags>Not Embedded, Independent</ICC-header:CMMFlags>
+ <ICC-header:DeviceManufacturer>Apple Computer Inc.</ICC-header:DeviceManufacturer>
+ <ICC-header:DeviceModel></ICC-header:DeviceModel>
+ <ICC-header:DeviceAttributes>Reflective, Glossy, Positive, Color</ICC-header:DeviceAttributes>
+ <ICC-header:RenderingIntent>Perceptual</ICC-header:RenderingIntent>
+ <ICC-header:ConnectionSpaceIlluminant>0.9642 1 0.82491</ICC-header:ConnectionSpaceIlluminant>
+ <ICC-header:ProfileCreator>Apple Computer Inc.</ICC-header:ProfileCreator>
+ <ICC-header:ProfileID>ecfda38e388547c36db4bd4f7ada182f</ICC-header:ProfileID>
+ <ICC_Profile:ProfileDescription>Display P3</ICC_Profile:ProfileDescription>
+ <ICC_Profile:ProfileCopyright>Copyright Apple Inc., 2022</ICC_Profile:ProfileCopyright>
+ <ICC_Profile:MediaWhitePoint>0.96419 1 0.82489</ICC_Profile:MediaWhitePoint>
+ <ICC_Profile:RedMatrixColumn>0.51512 0.2412 -0.00105</ICC_Profile:RedMatrixColumn>
+ <ICC_Profile:GreenMatrixColumn>0.29198 0.69225 0.04189</ICC_Profile:GreenMatrixColumn>
+ <ICC_Profile:BlueMatrixColumn>0.1571 0.06657 0.78407</ICC_Profile:BlueMatrixColumn>
+ <ICC_Profile:RedTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:RedTRC>
+ <ICC_Profile:ChromaticAdaptation>1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168</ICC_Profile:ChromaticAdaptation>
+ <ICC_Profile:BlueTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:BlueTRC>
+ <ICC_Profile:GreenTRC>(Binary data 32 bytes, use -b option to extract)</ICC_Profile:GreenTRC>
+ <Composite:RunTimeSincePowerUp>6:22:46</Composite:RunTimeSincePowerUp>
+ <Composite:Aperture>1.8</Composite:Aperture>
+ <Composite:ImageSize>4032x3024</Composite:ImageSize>
+ <Composite:Megapixels>12.2</Composite:Megapixels>
+ <Composite:ScaleFactor35efl>6.1</Composite:ScaleFactor35efl>
+ <Composite:ShutterSpeed>1/60</Composite:ShutterSpeed>
+ <Composite:SubSecCreateDate>2022:12:14 09:09:37.894+08:00</Composite:SubSecCreateDate>
+ <Composite:SubSecDateTimeOriginal>2022:12:14 09:09:37.894+08:00</Composite:SubSecDateTimeOriginal>
+ <Composite:SubSecModifyDate>2022:12:14 09:09:37+08:00</Composite:SubSecModifyDate>
+ <Composite:GPSAltitude>24.5 m Above Sea Level</Composite:GPSAltitude>
+ <Composite:GPSLatitude>32 deg 5&#39; 41.48&quot; S</Composite:GPSLatitude>
+ <Composite:GPSLongitude>115 deg 46&#39; 56.95&quot; E</Composite:GPSLongitude>
+ <Composite:CircleOfConfusion>0.005 mm</Composite:CircleOfConfusion>
+ <Composite:FOV>69.4 deg</Composite:FOV>
+ <Composite:FocalLength35efl>4.2 mm (35 mm equivalent: 26.0 mm)</Composite:FocalLength35efl>
+ <Composite:GPSPosition>32 deg 5&#39; 41.48&quot; S, 115 deg 46&#39; 56.95&quot; E</Composite:GPSPosition>
+ <Composite:HyperfocalDistance>2.04 m</Composite:HyperfocalDistance>
+ <Composite:LightValue>5.6</Composite:LightValue>
+ <Composite:LensID>iPhone XS back dual camera 4.25mm f/1.8</Composite:LensID>
+</rdf:Description>
+</rdf:RDF>
